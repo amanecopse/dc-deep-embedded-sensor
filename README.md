@@ -1,3 +1,4 @@
-보드: TTGO T-display
-센서: scd-30 온도, 습도, 이산화탄소 농도 센서
-통신: MQTT 프로토콜로 센서 데이터를 브로커에 publish
+- 보드: TTGO T-display
+- 센서: scd-30 온도, 습도, 이산화탄소 농도 센서
+- 디스플레이: 보드에 내장된 TFT LCD 디스플레이
+- 통신: WiFi로 인터넷에 접속하여, MQTT 프로토콜로 센서 데이터를 브로커에 publish
